@@ -1,0 +1,3 @@
+Learning - line 1
+Learning - line 2
+Now lets try to merge it.
